@@ -6,4 +6,4 @@ hero list:
 	zenyatta,moyira,winston
 	doomfist,reinhart,widowmaker
 	dva,hana song,daixuan
-	
+	旭东大仙，法力无边	

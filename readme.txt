@@ -1,4 +1,3 @@
 overwatch is the best game in the world
-git is a version control system
+git is a distributed version control system
 dva is the most nb player!!
-
